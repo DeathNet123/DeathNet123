@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt = "C-Logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "C++-Logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "HTML5" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "Css3" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt ="JS" width="50" height="50">
 ---
 
+<p>🌱 I’m currently learning other webdevelopment technologies and focusing on the Data Strutures etc.</p>
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
