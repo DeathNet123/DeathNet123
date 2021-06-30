@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ---
 
 <p>🌱 I’m currently learning other webdevelopment technologies and focusing on the Data Strutures etc.</p>
+<hr>
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
