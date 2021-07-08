@@ -35,4 +35,17 @@ Here are some ideas to get you started:
 
 [![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+⚡ Interests
+
+---
+<ul>
+  <li>Operating System Development.</li>
+  <li>Block Chains (Stellars and other.....)</li>
+  <li>Web Development</li>
+  <li>Cyber Security</li>
+  <li>Game Development</li>
+  <li>Quantum Computers </li>
+  <li>Cosmology</li>
+</ul
