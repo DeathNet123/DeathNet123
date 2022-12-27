@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Arslan Ahmed!
-<hr>
+
 <p>Computer Science Student. I love to solve real world problems and hack my ways into poorly build System.</p>
 <p>🌱 Currently, I am working on Vulnerability Research and Exploit Development on Android Kernel as my FYP project.</p>
-<hr>
 
 ## Toolbox
 <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt = "C-Logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "C++-Logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python" width="50" height="50"><img src ="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt = "BASH" width="50" height="50">
@@ -30,12 +29,9 @@ Here are some ideas to get you started:
 
 [![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ⚡ 
 ## Interests
 
----
 <ul>
   <li>Operating System Development.</li>
   <li>Cyber Security</li>
