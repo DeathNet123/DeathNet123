@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Arslan Ahmed!
 
-<p>Computer Science Student. I love to solve real world problems and hack my ways into poorly build System.</p>
+<p>A Computer Science Student. I love to solve real world problems and hack my ways into poorly build System.</p>
 <p>🌱 Currently, I am working on Vulnerability Research and Exploit Development on Android Kernel as my FYP project.</p>
 
 ## Toolbox
@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <ul>
   <li>Operating System Development.</li>
   <li>Cyber Security</li>
-  <li>Block Chains (Stellars and other.....)</li>
-  <li>Web Development</li>
-  <li>Quantum Computers </li>
+ <li>Quantum Computers </li> 
+ <li>Web Development</li>
   <li>Cosmology</li>
 </ul
