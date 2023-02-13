@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathNet123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡ 
 ## Interests
