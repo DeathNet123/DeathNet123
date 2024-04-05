@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I am Arslan Ahmed!
+### Hi, I am Arslan!
 
 <p>A Computer Science Student. I love to solve real world problems and hack my ways into poorly build System.</p>
-<p>🌱 Currently, I amd doing vulnerability research on the linux kernel </p>
+<p>🌱 Currently, I am doing vulnerability research on the linux kernel </p>
 
 ## Interests
 
 <ul>
+  <li> Low level Binary Exploitation</li>
+  <li> Linux Kernel Exploitation</li>
   <li>Operating System Development.</li>
-  <li>Cyber Security</li>
  <li>Quantum Computers </li> 
- <li>Web Development</li>
   <li>Cosmology</li>
 </ul
